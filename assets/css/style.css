@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 
+
 /* General styles */
 body {
     min-width: 100vh;
@@ -23,7 +24,7 @@ header {
 /* Main content */
 main {
     background-color: lightblue;
-    /* Make main element take up any surplus space to push foter down */
+  /* Make main element take up any surplus space to push foter down */
     flex: 1 0 auto;
 }
 
